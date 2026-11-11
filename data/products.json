@@ -1,0 +1,1286 @@
+[
+  {
+    "asin": "B0DHCJ571Z",
+    "name": "Roborock Saros 10R",
+    "brand": "Roborock",
+    "category": "robots",
+    "slug": "roborock-saros-10r",
+    "catalog_title": "roborock Saros 10R Robot Vacuum and Mop, 22000Pa, Edge Cleaning",
+    "budget_snapshot": 829.99,
+    "price_date": "2026-11-09",
+    "image": "/assets/products/B0DHCJ571Z.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0DHCJ571Z?maas=maas_adg_api_585625124253623110_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1cdf710570bb6c7fd45bd7cdd390dc24_7dfeee27471e&aa_adgroupid=280btoLOkMWmIg91uAOyg92tn_avHUHtWrpLov57IegGDa1_aAyPxZUwk73YAxN2WKazpGqiD_b57JqXtrpZmvUb_bFjWc25rr8uXnGNKUUbKLFL&aa_creativeid=a29eoYMwdE9RPh0I2cumEISQelo3irxWIpgpiehRxU3aIKA_c",
+    "link_status": "verified",
+    "evidence": [
+      {
+        "model": "Roborock Saros 10R",
+        "official_url": "https://us.roborock.com/products/roborock-saros-10r",
+        "facts": [
+          "Official US page lists 3.14-inch body height, dual spinning mops, automatic mop detachment and StarSight Autonomous System 2.0.",
+          "US page specifies 2.4 GHz Wi-Fi; 5 GHz is not supported."
+        ],
+        "limits": [
+          "Specifications do not establish independently measured cleaning performance.",
+          "Catalog name matches; exact package and destination still require verification."
+        ],
+        "asin": "B0DHCJ571Z",
+        "match_status": "catalog_model_name_match_variant_and_destination_pending"
+      }
+    ],
+    "decision_rows": [
+      [
+        "Low furniture",
+        "US stated body height: 3.14 inches.",
+        "Measure the lowest point across the route, not just the sofa opening."
+      ],
+      [
+        "Mixed rugs and hard floors",
+        "Automatic mop detachment is listed by Roborock.",
+        "Check the manual and choose how each rug should be handled."
+      ],
+      [
+        "Pet hair",
+        "Anti-tangle brush is a manufacturer feature claim.",
+        "Inspect brush access and replacement parts; no pickup score is implied."
+      ],
+      [
+        "Dock and connectivity",
+        "Multifunction dock; 2.4 GHz Wi-Fi.",
+        "Allow service access for water handling and check your network."
+      ]
+    ],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 829.99,
+      "source_updated_at": "2026-11-09",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": "$118",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0DLH247PS",
+    "name": "Roborock Saros 10",
+    "brand": "Roborock",
+    "category": "robots",
+    "slug": "roborock-saros-10",
+    "catalog_title": "roborock Saros 10 Robot Vacuum and Mop, 22,000Pa Suction, AI Obstacle Avoidance, 3.14-inch Ultra Thin, Intelligent Dirt Detection, Zero Tangling Main Brush, Hot Water Mop & Dock Self Cleanin",
+    "budget_snapshot": 799.99,
+    "price_date": "2026-10-24",
+    "image": "/assets/products/B0DLH247PS.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0DLH247PS?maas=maas_adg_api_585625124253623110_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1cdf710570bb6c7fd45bd7cdd390dc24_7b91769ff621&aa_adgroupid=ceabi_bnDuu0_bbXZqcrQOAZ_aVIwzQ_aJdduaibuoJucSTaP9lMAb3qDFYcVQEktcaMdhfZMvHv4FsnNq9u6nDSPKboOCgP6Nf9tYx9q8gzgw_ah&aa_creativeid=b8e72VStA3juD_baj5AmOl_a_byuQxjhH2rFqGfzF7_aNznBSrI_c",
+    "link_status": "verified",
+    "evidence": []
+  },
+  {
+    "asin": "B0D81675BQ",
+    "name": "Roborock Qrevo Curv",
+    "brand": "Roborock",
+    "category": "robots",
+    "slug": "roborock-qrevo-curv",
+    "catalog_title": "roborock Qrevo Curv Robot Vacuum and Mop, Zero-Tangling, AdaptiLift Chassis, FlexiArm Technology, Al Obstacle Recognition, 17mm Mop Lift, 18,500Pa Suction, Hot Water Mop Washing & Dock Self ",
+    "budget_snapshot": 599.99,
+    "price_date": "2026-11-05",
+    "image": "/assets/products/B0D81675BQ.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0D81675BQ?maas=maas_adg_api_585625124253623110_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1cdf710570bb6c7fd45bd7cdd390dc24_d091ac017513&aa_adgroupid=e1adQoVffZkfzPXHMMPEDbf0Xp8Jc4irZPenwGVrS0NbVe9AeJAaQzlCtdy_adzA4L3_bbLuwoitCKGNnaD_a6Wcb3BCcHMs3mQAIbn7U9NHkcn&aa_creativeid=c32daog5TmMd557b0cyZQ2qFSkHhAZd785Qo6COBEBqLop0_c",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 599.99,
+      "source_updated_at": "2026-11-05",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": "$20",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0CQ7JCN6Z",
+    "name": "Roborock Qrevo MaxV",
+    "brand": "Roborock",
+    "category": "robots",
+    "slug": "roborock-qrevo-maxv",
+    "catalog_title": "roborock Qrevo MaxV Robot Vacuum and Mop, FlexiArm Design, Hot Water Re-Wash & Re-Mop, Auto-Drying, Self-Emptying, 7000Pa Suction, Built-in Voice Assistant, Smart Obstacle Avoidance(Refurbis",
+    "budget_snapshot": 349.99,
+    "price_date": "2026-10-24",
+    "image": "/assets/products/B0CQ7JCN6Z.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://amazon.com/dp/B0CQ7JCN6Z?maas=maas_adg_api_585625124253623110_static_9_218&ref_=aa_maas&tag=maas&aa_campaignid=wyrd_d05d0521cf1ce96_5&aa_adgroupid=wyrd_65449782168a74a_5&aa_creativeid=wyrd_d53c4892e3d453d_5",
+    "link_status": "verified",
+    "evidence": []
+  },
+  {
+    "asin": "B0FJLBTLZW",
+    "name": "Roborock Qrevo Pro",
+    "brand": "Roborock",
+    "category": "robots",
+    "slug": "roborock-qrevo-pro",
+    "catalog_title": "roborock Qrevo Pro Robot Vacuum and Mop with FlexiArm Design Edge Mopping",
+    "budget_snapshot": 399.99,
+    "price_date": "2026-11-09",
+    "image": "/assets/products/B0FJLBTLZW.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0FJLBTLZW?maas=maas_adg_api_585625124253623110_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1cdf710570bb6c7fd45bd7cdd390dc24_0073527cddf2&aa_adgroupid=6f25RLLA5sp8o7rpb0eM_aQzStFYKQzwwh0K4_am0kBDrud9UxEiOK7dw7RjHG7UmFOQ4oa9fvvRuvHFscpt7NAqoJgdi7uav6xyHReWvLLalX&aa_creativeid=5575ljSnZ29kvMBN1VQz1pv3chU0vkKxRH3Fw5VV3wQhIf8_c",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 399.99,
+      "source_updated_at": "2026-11-09",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": "$20",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0DBQNYQ5M",
+    "name": "Roborock Qrevo Slim",
+    "brand": "Roborock",
+    "category": "robots",
+    "slug": "roborock-qrevo-slim",
+    "catalog_title": "roborock Qrevo Slim Robot Vacuum and Mop Combo, 8.2cm Ultra-Slim, 3D Sensing Tech, Advanced Obstacle Recognition, Powerful Suction, FlexiArm Side Brush & Mop, Auto Mop Washing & Drying, Self",
+    "budget_snapshot": 1399.99,
+    "price_date": "2026-11-05",
+    "image": "/assets/products/B0DBQNYQ5M.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0DBQNYQ5M?maas=maas_adg_api_585625124253623110_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1cdf710570bb6c7fd45bd7cdd390dc24_47d1e9371461&aa_adgroupid=c317_bDok3H0mLJ1yfZmyomRamPsemPhtSgvXcBGOBSfyEfSp0ASnrmq2heFHl72mmIQOAMqE1H3lPwBEtQwnQ9Co55H84capqw2_a9FjeicrN&aa_creativeid=a9419dMtP4YVelVWQyfbx5qH_amiEyvyjfYClieGdr2653Qo_c",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 1399.99,
+      "source_updated_at": "2026-11-05",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": "$20",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0DM5J52GC",
+    "name": "Dreame X50 Ultra",
+    "brand": "Dreame",
+    "category": "robots",
+    "slug": "dreame-x50-ultra",
+    "catalog_title": "DREAME X50 Ultra with Self-Cleaning All in One Robot Vacuum and Mop",
+    "budget_snapshot": 999.99,
+    "price_date": "2026-11-10",
+    "image": "/assets/products/B0DM5J52GC.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0DM5J52GC?maas=maas_adg_api_586321083774220533_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1bf2c5344fc45811b0a22dbebe39d1b5_640c85c6b545&aa_adgroupid=4a77C_bQ7ywzim99WnWL3JnCgZRS7LPBnSkpIW1DZAwUyqLlE97HsORX3bH6C80j7bUlFrcosdBIhBEBOHJpTcE1EJglnYHSK6NHTrDsRr20_c&aa_creativeid=461d36tAlpeQhHcvcX8UGK8l6ftY2Kv1N5er71ipjFEpus8_c",
+    "link_status": "verified",
+    "evidence": [
+      {
+        "model": "Dreame X50 Ultra",
+        "official_url": "https://www.dreametech.com/products/x50-ultra-robot-vacuum",
+        "facts": [
+          "Dreame’s US page describes VersaLift lowering the robot to 3.5 inches and support for 2.4 GHz Wi-Fi.",
+          "The US page lists modes for removing mops, avoiding carpet and boosting suction."
+        ],
+        "limits": [
+          "Retracted height is a stated configuration, not a guarantee of access beneath every piece of furniture.",
+          "X50 Ultra and X50 Ultra Complete are selectable versions; confirm the exact Amazon package.",
+          "Manufacturer claims do not establish independently measured pickup, noise or obstacle-avoidance performance."
+        ],
+        "verified_at": "2026-11-05",
+        "match_status": "model_name_match_package_unverified"
+      }
+    ],
+    "decision_rows": [
+      [
+        "Low furniture",
+        "VersaLift stated lowered height: 3.5 inches.",
+        "Check clearance in the operating configuration required for that space."
+      ],
+      [
+        "Doorway thresholds",
+        "Dreame markets retractable-leg obstacle crossing.",
+        "Measure height, profile and approach space; a maximum figure is not a universal threshold guarantee."
+      ],
+      [
+        "Rugs and mopping",
+        "US page lists mop-removal and carpet-avoidance modes.",
+        "Decide whether each rug requires avoidance or mop removal."
+      ],
+      [
+        "Ownership",
+        "X50 Ultra and Complete are separate selections.",
+        "Confirm consumables and accessories in the exact offer, plus 2.4 GHz Wi-Fi."
+      ]
+    ],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 999.99,
+      "source_updated_at": "2026-11-10",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": "$60",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0DZHNSL1H",
+    "name": "Dreame X40 Ultra",
+    "brand": "Dreame",
+    "category": "robots",
+    "slug": "dreame-x40-ultra",
+    "catalog_title": "DREAME X40 Ultra Robotic Vacuum with Removable & Liftable Mop, 12,000Pa Suction, Side Brush Extensive Cleaning, 158°F Mop & Washboard Self Cleaning, Auto-Empty, Auto Refill, liftable Brushes",
+    "budget_snapshot": 589.99,
+    "price_date": "2026-11-10",
+    "image": "/assets/products/B0DZHNSL1H.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0DZHNSL1H?maas=maas_adg_api_586321083774220533_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1bf2c5344fc45811b0a22dbebe39d1b5_a59ba07f0c75&aa_adgroupid=ce36EToNv4apPi_b1rz3NrO6Wamq48AB780_bO_bzN9YllkEoFfh1_a6312xexwMS2HWhOKUA96w3nBqDXaSr0YcVxs4S_aop2OL9wNOHIpuqwr4_c&aa_creativeid=ec29tTNaiNxCtX_aCTiHyOjSxwPZwISJ7KHltMy63BGX5rRA_c",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 589.99,
+      "source_updated_at": "2026-11-10",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": "$30",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0F3J6FR1H",
+    "name": "Dreame L50 Ultra",
+    "brand": "Dreame",
+    "category": "robots",
+    "slug": "dreame-l50-ultra",
+    "catalog_title": "dreame L50 Ultra Robot Vacuum with Dual Laser & AI RGB Navigation",
+    "budget_snapshot": 899.99,
+    "price_date": "2026-10-24",
+    "image": "/assets/products/B0F3J6FR1H.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0F3J6FR1H?maas=maas_adg_api_586321083774220533_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1bf2c5344fc45811b0a22dbebe39d1b5_52b11c637a37&aa_adgroupid=373boiYCz6YamAwsrIe8FJjdDfYRv0fXMUCjFdtlNuEZOEq8kYNXWld4AEfcDMFvFy14LAsLH4XiKaQWQM5_bug6GnTEHjmMEYlzP521TO9A_c&aa_creativeid=62fc1U_anPXidLwhMBXPQ5wB12n6AwhGim1vTd54FNp6qQPA_c",
+    "link_status": "verified",
+    "evidence": []
+  },
+  {
+    "asin": "B0F32THV6T",
+    "name": "Dreame L40s Ultra AE",
+    "brand": "Dreame",
+    "category": "robots",
+    "slug": "dreame-l40s-ultra-ae",
+    "catalog_title": "DREAME L40s Ultra AE Robot Vacuum and Mop, Self Emptying & Auto Refill",
+    "budget_snapshot": 669.99,
+    "price_date": "2026-10-24",
+    "image": "/assets/products/B0F32THV6T.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0F32THV6T?maas=maas_adg_api_586321083774220533_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1bf2c5344fc45811b0a22dbebe39d1b5_b7ced7da3ff9&aa_adgroupid=5f39dFt5WoVuUiAa_a3dbJHrSUmRRbLzyvift9ABdtTIdpqbvmJVUPqhXSmXAb_aNd3d3B3BmPOZbVL4oPRrpOhENk1lUImufCTZFHJxgn8K0_c&aa_creativeid=2e27BA5_bMFGBxr95_bGLicx383x35CPgTvVz4NKBilbnNntE_c",
+    "link_status": "verified",
+    "evidence": []
+  },
+  {
+    "asin": "B0F3BXY5M1",
+    "name": "Dreame D20 Pro Plus",
+    "brand": "Dreame",
+    "category": "robots",
+    "slug": "dreame-d20-pro-plus",
+    "catalog_title": "dreame D20 Pro Plus Robot Vacuum and Mop, Detangling DuoBrush for Pet Hair",
+    "budget_snapshot": 303.96,
+    "price_date": "2026-11-10",
+    "image": "/assets/products/B0F3BXY5M1.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0F3BXY5M1?maas=maas_adg_api_586321083774220533_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1bf2c5344fc45811b0a22dbebe39d1b5_6b41b3731cce&aa_adgroupid=aa74VGdVame4qweWhpx9_a_aUNKgtHgKB_a_aYTcDxRgcqPQmGfFDQpWAY_azbZgKpHThGSOwo54sGT4k_bt16MRrxnaCHZgE_a89RDDgh71KbS4Zk_c&aa_creativeid=2c354CBAA2WhMxcctEkbsmM5L_a9ypMUiibtj3EXrszP4rfk_c",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 303.96,
+      "source_updated_at": "2026-11-10",
+      "checked_at": "2026-11-11",
+      "discount_reported": "24%",
+      "coupon_reported": "$30",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0F9PHS282",
+    "name": "Dreame Aqua10 Ultra Roller Complete",
+    "brand": "Dreame",
+    "category": "robots",
+    "slug": "dreame-aqua10-ultra-roller-complete",
+    "catalog_title": "DREAME Aqua10 Ultra Roller Complete Robot Vacuum and Mop, AquaRoll Mopping",
+    "budget_snapshot": 799.99,
+    "price_date": "2026-11-10",
+    "image": "/assets/products/B0F9PHS282.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0F9PHS282?maas=maas_adg_api_586321083774220533_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1bf2c5344fc45811b0a22dbebe39d1b5_895be24ace94&aa_adgroupid=062cWKCCRfDTOovZDE5PS2Y0J8zZi2sSorYTemyItEE5CW2VjzSFEdsuYpQdDr1ny8guzpCHq2mHOUiB7ut_bD9Jr1Op5V3n_a9kBjX8fX6QM_c&aa_creativeid=b1b7kbbAuaTIrxpKPLFwsw3dkc6o9yDjFOH6ETa0ZGTPwrE_c",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 799.99,
+      "source_updated_at": "2026-11-10",
+      "checked_at": "2026-11-11",
+      "discount_reported": "20%",
+      "coupon_reported": "$20",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0DR8NJMCJ",
+    "name": "ECOVACS DEEBOT X8 PRO OMNI",
+    "brand": "ECOVACS",
+    "category": "robots",
+    "slug": "ecovacs-deebot-x8-pro-omni",
+    "catalog_title": "ECOVACS DEEBOT X8 PRO OMNI Robot Vacuum and Mop, 18000Pa, OZMO ROLLER Instant Self-Washing Mopping, 167℉ Hot Water Mop Washing, Auto Cleaning Solution Adding, Hot Air-Drying, Self-Emptying, ",
+    "budget_snapshot": 615.99,
+    "price_date": "2026-11-11",
+    "image": "/assets/products/B0DR8NJMCJ.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0DR8NJMCJ?maas=maas_adg_api_584728141102113920_static_9_129&ref_=aa_maas&tag=maas&aa_campaignid=lv_CDIX2IDzKQN5JK3cMg&aa_adgroupid=lv_yPTcP6posCmrqzT22z&aa_creativeid=lv_XfCmJW0KklbVR779OU",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 615.99,
+      "source_updated_at": "2026-11-11",
+      "checked_at": "2026-11-11",
+      "discount_reported": "44%",
+      "coupon_reported": "$8",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0DZXFNVQ2",
+    "name": "ECOVACS DEEBOT X9 PRO OMNI",
+    "brand": "ECOVACS",
+    "category": "robots",
+    "slug": "ecovacs-deebot-x9-pro-omni",
+    "catalog_title": "ECOVACS DEEBOT X9 PRO Omni Robot Vacuum, OZMO Roller Instant Self-Washing",
+    "budget_snapshot": 799.99,
+    "price_date": "2026-10-24",
+    "image": "/assets/products/B0DZXFNVQ2.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0DZXFNVQ2?maas=maas_adg_api_584728141102113920_static_9_129&ref_=aa_maas&tag=maas&aa_campaignid=lv_CDIX2IDzKQN5JK3cMg&aa_adgroupid=lv_S5WoXocOreUZHVmvsR&aa_creativeid=lv_au3TCPpmKqRtdNNMFz",
+    "link_status": "verified",
+    "evidence": []
+  },
+  {
+    "asin": "B0DSB92P1N",
+    "name": "ECOVACS DEEBOT T50 PRO OMNI",
+    "brand": "ECOVACS",
+    "category": "robots",
+    "slug": "ecovacs-deebot-t50-pro-omni",
+    "catalog_title": "ECOVACS DEEBOT T50 PRO Omni Robot Vacuum and Mop, 3.19” Ultra-Slim, 15,000Pa Suction, ZeroTangle 2.0, TruEdge Edge Cleaning, AIVI 3D Obstacle Avoidance, Auto Mop Wash & Dry, Self-Emptying",
+    "budget_snapshot": 399.99,
+    "price_date": "2026-11-11",
+    "image": "/assets/products/B0DSB92P1N.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0DSB92P1N?maas=maas_adg_api_584728141102113920_static_9_129&ref_=aa_maas&tag=maas&aa_campaignid=lv_CDIX2IDzKQN5JK3cMg&aa_adgroupid=lv_LGbCFbjkz6TZL35Bd4&aa_creativeid=lv_0htHUAH3JbI0DdnACX",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 399.99,
+      "source_updated_at": "2026-11-11",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": "$154",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0G4RK6QZX",
+    "name": "Lefant M5 Pro",
+    "brand": "Lefant",
+    "category": "robots",
+    "slug": "lefant-m5-pro",
+    "catalog_title": "Lefant Robot Vacuum and Mop Combo Self Emptying, 23,000Pa, 120-Day, M5 Pro",
+    "budget_snapshot": 599.99,
+    "price_date": "2026-11-09",
+    "image": "/assets/products/B0G4RK6QZX.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0G4RK6QZX?maas=maas_adg_api_589159765761092187_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PBb93589c9c363999435f9dd4567587b41_35a0e7e579d0&aa_adgroupid=9585Xfu07zzyXmr7Iq5LRwx4v3JH0clMRp6v5iYi_b6sgpYyP8yHxp8yDIxdc4gGwxZUe_aNxUEtdSe9sW_ai9rkwtpzkgBhS8s03Cu_aA_c_c&aa_creativeid=f046vi5C1eJViTB4_bf8xLDxPlvwCMqoEDnYQonRi0tak3GE_c",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 599.99,
+      "source_updated_at": "2026-11-09",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": "5%",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0F138D56C",
+    "name": "Dreame H15 Pro",
+    "brand": "Dreame",
+    "category": "floors",
+    "slug": "dreame-h15-pro",
+    "catalog_title": "dreame H15 Pro Wet Dry Vacuum and Mop, 185°F Heated Water Floor Cleaning",
+    "budget_snapshot": 522.48,
+    "price_date": "2026-11-10",
+    "image": "/assets/products/B0F138D56C.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0F138D56C?maas=maas_adg_api_586321083774220533_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1bf2c5344fc45811b0a22dbebe39d1b5_1533e1f91c68&aa_adgroupid=98908N5m8FyfAoZWjtlXeDUFTuOUPxTEHdsFlBZrVFTabrtRIfyerAWTNFB2p3oB17iWPGf0Kg01PpUhYhooRkQfLpH7BjhQ434kR5KYsrU_c&aa_creativeid=87e95pbyLEw4CXvThjdp4KA4H_bExoBhLxrxfrlaHDrZjgqY_c",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 522.48,
+      "source_updated_at": "2026-11-10",
+      "checked_at": "2026-11-11",
+      "discount_reported": "19%",
+      "coupon_reported": "$30",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0CXD5YDTF",
+    "name": "Dreame H14 Pro",
+    "brand": "Dreame",
+    "category": "floors",
+    "slug": "dreame-h14-pro",
+    "catalog_title": "dreame H14 Pro Wet Dry Vacuum Cleaner, 180° Lie-Flat Vacuum Mop, 140°F Washing and Fast Hot Air Drying, Powerful 18kPa Suction Floor Cleaner Machine, Easy GlideWheel Movement, Smart App Cont",
+    "budget_snapshot": 449.99,
+    "price_date": "2026-10-24",
+    "image": "/assets/products/B0CXD5YDTF.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0CXD5YDTF?maas=maas_adg_api_586321083774220533_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1bf2c5344fc45811b0a22dbebe39d1b5_a1a97d0dfb6a&aa_adgroupid=d20bZJWKjo7qFGQ61QP1dwp9BH18lJdfmKmqLnE4rS57eOo3eYR5uSa7K_akgVJWKO22hEsv8z8IkQcW_bAu5W0SW00_aUhU3cNBcVAT4pJtxk_c&aa_creativeid=ab04dlzclAqSapoubdN9VUtS2IansGwkbI_bCe4WYcQecszM_c",
+    "link_status": "verified",
+    "evidence": []
+  },
+  {
+    "asin": "B0FLJPZD5B",
+    "name": "Dreame H15 Pro CarpetFlex",
+    "brand": "Dreame",
+    "category": "floors",
+    "slug": "dreame-h15-pro-carpetflex",
+    "catalog_title": "DREAME H15 Pro CarpetFlex Cordless Vacuum Mop, Wet Dry Vacuum Cleaner with Dual Brushes for Hard Floors & Carpet, Tangle-Free Hair-Cutting, 23kPa Suction, 180° Lie-Flat Floor Washer, 194°F F",
+    "budget_snapshot": 429.99,
+    "price_date": "2026-10-24",
+    "image": "/assets/products/B0FLJPZD5B.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0FLJPZD5B?maas=maas_adg_api_586321083774220533_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1bf2c5344fc45811b0a22dbebe39d1b5_38efbdbf5d54&aa_adgroupid=bfa2D7VjuE8yrweoBzSMEf30snNCFRfeVOFgIEc3KP9ewvEiiuL5hv8THCJZeG5sSQ44IhZeAqJ_bbMnhLxa7xnP6Ak6jHTwIkC3mF08GpsA_c&aa_creativeid=ca17JHdtH_by_bTGar_bkHQ_adfQafAO68T0hToVXEFqWsxjjoA_c",
+    "link_status": "verified",
+    "evidence": []
+  },
+  {
+    "asin": "B0DK4QTRF5",
+    "name": "Roborock F25 Combo",
+    "brand": "Roborock",
+    "category": "floors",
+    "slug": "roborock-f25-combo",
+    "catalog_title": "roborock F25 Combo Wet Dry Vacuum Cleaner, 5-in-1 Cordless Stick Vacuum Mop",
+    "budget_snapshot": 329.99,
+    "price_date": "2026-10-24",
+    "image": "/assets/products/B0DK4QTRF5.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0DK4QTRF5?maas=maas_adg_api_585625124253623110_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1cdf710570bb6c7fd45bd7cdd390dc24_122f8185b7b5&aa_adgroupid=faeaCAy8N4z8Dt05gSraAmhpDQ15p7AZFoPeunTysTLpAIKNGeaj2h7fyfomXlcgdNOZdfpH_bC6wdNM7FaCiOOIluiIWTd8bqQqrzyhutKkI&aa_creativeid=ea76o8aMhN_bYBUSFRI1S2eRWuQfQ45llsft4yQFs6z4Jrik_c",
+    "link_status": "verified",
+    "evidence": []
+  },
+  {
+    "asin": "B0FHHRXJ56",
+    "name": "Roborock F25 Ultra",
+    "brand": "Roborock",
+    "category": "floors",
+    "slug": "roborock-f25-ultra",
+    "catalog_title": "roborock F25 Ultra Steam Wet Dry Vacuum Mop, 356°F Steam, 187°F Hot Water",
+    "budget_snapshot": 699.99,
+    "price_date": "2026-11-09",
+    "image": "/assets/products/B0FHHRXJ56.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0FHHRXJ56?maas=maas_adg_api_585625124253623110_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1cdf710570bb6c7fd45bd7cdd390dc24_3d37468642c2&aa_adgroupid=34c6Lgx2hf6lZhuOwGtI4TUD1tTomnSwsE5iBlesZJn5y9TsKFN7j0_bcBVs9USwzhFg09t_brmV1OuXgl4wQUhU_aUleeIfVhOHCCF7tTn1WyN&aa_creativeid=bf025Oe3LfsPTE07QSYhiE54Z_b6OK4esUbUzAt3krGY5fGU_c",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 699.99,
+      "source_updated_at": "2026-11-09",
+      "checked_at": "2026-11-11",
+      "discount_reported": "12%",
+      "coupon_reported": "$20",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0DHTW17RR",
+    "name": "Roborock F25 XT",
+    "brand": "Roborock",
+    "category": "floors",
+    "slug": "roborock-f25-xt",
+    "catalog_title": "roborock F25 XT Wet Dry Vacuum Mop, Cordless Vacuum Cleaner, APP Control",
+    "budget_snapshot": 549.99,
+    "price_date": "2026-11-09",
+    "image": "/assets/products/B0DHTW17RR.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0DHTW17RR?maas=maas_adg_api_585625124253623110_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1cdf710570bb6c7fd45bd7cdd390dc24_a675b4e497ec&aa_adgroupid=77bdykVOY9LpMGpcEkkcukivfIec6Hu901oHGlBkqc2AklOroziiEeqOHKC6gPi1ve0_bFi2OmqO4qEadj8NuaIRMaFFe83GZ8OeGJHHLPYXS&aa_creativeid=e3baZHbn5XP41TLKzlsqzmlnDWZ5H4HVGxxyYRUIP_bQl5mw_c",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 249.99,
+      "source_updated_at": "2026-11-09",
+      "checked_at": "2026-11-11",
+      "discount_reported": "54%",
+      "coupon_reported": "$20",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0BJ73MYQY",
+    "name": "Midea MLH25N7BWW Washer",
+    "brand": "Midea",
+    "category": "laundry",
+    "slug": "midea-mlh25n7bww-washer",
+    "catalog_title": "Midea MLH25N7BWW Compact Front-Load Machine, 24\" Energy & Space-Saving Washer, Steam Care and Cold Wash Stackable Laundry, for Family Daily use, 2.5 Cu.ft, White",
+    "budget_snapshot": 1519.99,
+    "price_date": "2026-10-10",
+    "image": "/assets/products/B0BJ73MYQY.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0BJ73MYQY?maas=maas_adg_api_588397405087409390_static_12_201&ref_=aa_maas&aa_campaignid=PB48518d6130db994a34af0e45764d9ae3_7eb440dda7f9&aa_adgroupid=83bb3pu7WPH_bvOnfjXCsFPnDnm1aWU_azmWCaVdyKRWo18ZSKK9HKTxR0tiqRBs8sWzrMOBuedn_a9IGwgxC34khjIZ_aDHLmAQ_anE_c&aa_creativeid=347ciU7ppZKcfIJ0jpjyBSVAlxjoSPWelTHT5_aKq8e_awESU_c",
+    "link_status": "verified",
+    "evidence": [
+      {
+        "model": "MLH25N7BWW",
+        "asin": "B0BJ73MYQY",
+        "official_url": "https://www.midea.com/content/dam/midea-aem/us/manuals/MLH25N7BWW-User-Manual.pdf",
+        "facts": [
+          "Standalone front load washer; not a washer dryer combo."
+        ],
+        "limits": [
+          "Manufacturer documentation is not a hands-on performance test.",
+          "Confirm exact US SKU, included accessories and current offer before purchase."
+        ],
+        "match_status": "exact_model_in_catalog",
+        "checked_at": "2026-10-26"
+      }
+    ],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 1519.99,
+      "source_updated_at": "2026-10-10",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": null,
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0C7CGMHCZ",
+    "name": "Midea MLTW37A1BWW Washer",
+    "brand": "Midea",
+    "category": "laundry",
+    "slug": "midea-mltw37a1bww-washer",
+    "catalog_title": "Midea MLTW37A1BWW Agitator Machine, Auto Top Load Sensing Washer, 12 Washing Cycles, Dial Control Panel, 3.7 Cu.ft, White",
+    "budget_snapshot": 549.0,
+    "price_date": "2026-11-09",
+    "image": "/assets/products/B0C7CGMHCZ.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0C7CGMHCZ?maas=maas_adg_api_588397405087409390_static_12_201&ref_=aa_maas&aa_campaignid=PB48518d6130db994a34af0e45764d9ae3_55a83159b6fd&aa_adgroupid=87a3n02rxa5Fr3Bb6HuFWa41kD7u5TTctuZT4IuQef6_aTn6686rJkDbZS7IY4GT8ylBsdNsWk0dHqle8fLj3o324_bLLWP4HkYJ8_c&aa_creativeid=fe33IvdMfjrXn7XfQS5G4PsJt2NzQHjb6yO_b5wFh6DKb43U_c",
+    "link_status": "verified",
+    "evidence": [
+      {
+        "model": "MLTW37A1BWW",
+        "asin": "B0C7CGMHCZ",
+        "official_url": "https://www.midea.com/us/laundry/top-load/top-load-washer-with-agitator.mltw37a1bww",
+        "facts": [
+          "3.7 cu ft top load washer with agitator and automatic water-level sensing."
+        ],
+        "limits": [
+          "Manufacturer documentation is not a hands-on performance test.",
+          "Confirm exact US SKU, included accessories and current offer before purchase."
+        ],
+        "match_status": "exact_model_in_catalog",
+        "checked_at": "2026-10-26"
+      }
+    ],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 549.0,
+      "source_updated_at": "2026-11-09",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": null,
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0C7CL53CS",
+    "name": "Midea MLTE37N1BWW Electric Dryer",
+    "brand": "Midea",
+    "category": "laundry",
+    "slug": "midea-mlte37n1bww-electric-dryer",
+    "catalog_title": "Midea MLTE37N1BWW Electric Dryer, Sensor Dry, Wrinkle Care, Air Fluff, Easy-Using Control Panel, 12 Total Cycles, 6.7 Cu.ft, White",
+    "budget_snapshot": 895.7,
+    "price_date": "2026-09-19",
+    "image": "/assets/products/B0C7CL53CS.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0C7CL53CS?maas=maas_adg_api_588397405087409390_static_12_201&ref_=aa_maas&aa_campaignid=PB48518d6130db994a34af0e45764d9ae3_ae6fdee8d780&aa_adgroupid=48ecQGEBdLINTwiAcu9rwKCgfOMRHuztATsOw8S7loHZyjZdiWzXnW_bjAJAB9nUsSCr1Zl_b64S683uDSwW_aVXRRJMi7_bU3YlQH4_c&aa_creativeid=8677k0RcYC_a_biGIGBqiAGYHp9aTXmxKDiGcL1CtLzpsyEns_c",
+    "link_status": "verified",
+    "evidence": [
+      {
+        "model": "MLTE37N1BWW",
+        "asin": "B0C7CL53CS",
+        "official_url": "https://www.midea.com/us/laundry/dryers-electric/6-7-cu-ft-electric-dryer",
+        "facts": [
+          "6.7 cu ft electric dryer; Sensor Dry adjusts time using moisture detection."
+        ],
+        "limits": [
+          "Manufacturer documentation is not a hands-on performance test.",
+          "Confirm exact US SKU, included accessories and current offer before purchase."
+        ],
+        "match_status": "exact_model_in_catalog",
+        "checked_at": "2026-10-26"
+      }
+    ],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 895.7,
+      "source_updated_at": "2026-09-19",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": null,
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0CX518TCS",
+    "name": "Midea 2.7 cu. ft. Washer Dryer Combo",
+    "brand": "Midea",
+    "category": "laundry",
+    "slug": "midea-2-7-cu-ft-washer-dryer-combo",
+    "catalog_title": "Midea Washer Dryer Combo 2.7 Cu.ft 24\" All-in-One Front Load 1400 RPM White",
+    "budget_snapshot": 999.0,
+    "price_date": "2026-11-09",
+    "image": "/assets/products/B0CX518TCS.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0CX518TCS?maas=maas_adg_api_588397405087409390_static_12_201&ref_=aa_maas&aa_campaignid=PB48518d6130db994a34af0e45764d9ae3_d3dfa47214bb&aa_adgroupid=b608tx1qxAsXwaSIC2URDKRwHfo_aQU_a4IRiH_aWgGpEqE3xza83v4Cpa7RRNsYWO4_a_bzTLw7LPhjEzRv_b_bNcDZjbx1oQHsVVDwV0_c&aa_creativeid=56f4oqvJ8QEf093WHQyl7JPMEKqWz7WGF_aR6sKDxFGSnZPs_c",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 999.0,
+      "source_updated_at": "2026-11-09",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": null,
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0C7CJ8WJM",
+    "name": "Midea MLTG37N1BWW Gas Dryer",
+    "brand": "Midea",
+    "category": "laundry",
+    "slug": "midea-mltg37n1bww-gas-dryer",
+    "catalog_title": "Midea MLTG37N1BWW Gas Dryer Auto Sensor Dry 12 Total Cycles 6.7 Cu.ft White",
+    "budget_snapshot": 649.0,
+    "price_date": "2026-10-21",
+    "image": "/assets/products/B0C7CJ8WJM.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0C7CJ8WJM?maas=maas_adg_api_588397405087409390_static_12_201&ref_=aa_maas&aa_campaignid=PB48518d6130db994a34af0e45764d9ae3_ae6fdee8d780&aa_adgroupid=4426Z8Qv_aO2VrxN9vjsD9zLptHe6cVXQiUYKAbjuj_b9WBXVA2D3tsW6HB4yG_aVgCKr1dlHPoCtQvQjPYtnZW9MmUXBm_bIhxCB8A_c&aa_creativeid=cc8efyw1PeiHpzZFh_bKbRsQXoKY7VbokkzAP7MW_bvLWJMOE_c",
+    "link_status": "verified",
+    "evidence": [
+      {
+        "model": "MLTG37N1BWW",
+        "asin": "B0C7CJ8WJM",
+        "official_url": "https://www.midea.com/content/dam/midea-aem/us/manuals/MLTE37N1BWW-MLTG37N1BWW-User-Manual.pdf",
+        "facts": [
+          "Gas dryer variant; shared manual identifies electric and gas models separately."
+        ],
+        "limits": [
+          "Manufacturer documentation is not a hands-on performance test.",
+          "Confirm exact US SKU, included accessories and current offer before purchase."
+        ],
+        "match_status": "exact_model_in_catalog",
+        "checked_at": "2026-10-26"
+      }
+    ],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 649.0,
+      "source_updated_at": "2026-10-21",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": null,
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B08675L7TK",
+    "name": "Midea MLG45N1AWW Gas Dryer",
+    "brand": "Midea",
+    "category": "laundry",
+    "slug": "midea-mlg45n1aww-gas-dryer",
+    "catalog_title": "Midea MLG45N1AWW Cu.Ft.Gas Dryer, Front Load Matching, Sensor Dry, White 8.0 Cu.ft",
+    "budget_snapshot": 849.0,
+    "price_date": "2026-09-11",
+    "image": "/assets/products/B08675L7TK.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B08675L7TK?maas=maas_adg_api_588397405087409390_static_12_201&ref_=aa_maas&aa_campaignid=PB48518d6130db994a34af0e45764d9ae3_26a3b768e02c&aa_adgroupid=f1132gvE1bbRKcs_bKwybydfQ0ftAxNXqOawoi_aJv_b8YcOVKXyCzGZ_brSTe7q88Pqx8REEdwNqfC8mfaSYgyQKBwmG0C7F4ClDs8_c&aa_creativeid=cd80CmyY6_b0DW580RrKY_aS4_bMjc6o4JHvR_bI8BgxZ4Av6yc_c",
+    "link_status": "verified",
+    "evidence": [
+      {
+        "model": "MLG45N1AWW",
+        "asin": "B08675L7TK",
+        "official_url": "https://www.midea.com/content/dam/midea-aem/us/laundry/dryers/8-0-cu-ft-front-load-gas-dryer-mlg45n1aww/MLE45N1AWW_MLG45N1AWW_Front%20Load%20Dryer_Spec%20Sheet.pdf",
+        "facts": [
+          "8.0 cu ft gas dryer; standalone appliance."
+        ],
+        "limits": [
+          "Manufacturer documentation is not a hands-on performance test.",
+          "Confirm exact US SKU, included accessories and current offer before purchase."
+        ],
+        "match_status": "exact_model_in_catalog",
+        "checked_at": "2026-10-26"
+      }
+    ],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 849.0,
+      "source_updated_at": "2026-09-11",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": null,
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0BJ6ZCHWX",
+    "name": "Midea 4.4 cu. ft. Heat Pump Dryer",
+    "brand": "Midea",
+    "category": "laundry",
+    "slug": "midea-4-4-cu-ft-heat-pump-dryer",
+    "catalog_title": "Midea Heat Pump Ventless Front Load Dryer Stackable 4.4 Cu.ft White",
+    "budget_snapshot": 899.0,
+    "price_date": "2026-10-23",
+    "image": "/assets/products/B0BJ6ZCHWX.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": null,
+    "link_status": "unverified_page",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 899.0,
+      "source_updated_at": "2026-10-23",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": null,
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0GJDQ59J1",
+    "name": "ECOVACS WINBOT W3 OMNI",
+    "brand": "ECOVACS",
+    "category": "windows",
+    "slug": "ecovacs-winbot-w3-omni",
+    "catalog_title": "ECOVACS WINBOT W3 Omni Robot Window Cleaner with Auto-Clean & Multi-Functional Station, Win-SLAM 5.0 Smart Navigation, Intelligent Cleaning with Triple Spray System, 12-Level Protection",
+    "budget_snapshot": 699.99,
+    "price_date": "2026-10-24",
+    "image": "/assets/products/B0GJDQ59J1.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0GJDQ59J1?maas=maas_adg_api_584728141102113920_static_9_129&ref_=aa_maas&tag=maas&aa_campaignid=lv_CDIX2IDzKQN5JK3cMg&aa_adgroupid=lv_Lqowi2yhnniYvA9Wk1&aa_creativeid=lv_BPKWyX9MCl49JGBrYV",
+    "link_status": "verified",
+    "evidence": [
+      {
+        "model": "WINBOT W3 OMNI",
+        "asin": "B0GJDQ59J1",
+        "official_url": "https://www.ecovacs.com/us/shop/winbot-window-cleaning-robot/winbot-w3-omni",
+        "facts": [
+          "The US W3 OMNI page describes Vortex Wash pad washing, optional station self-cleaning, and plug-in or battery operation."
+        ],
+        "limits": [
+          "Manufacturer documentation is not a hands-on performance test.",
+          "Confirm exact US SKU, included accessories and current offer before purchase.",
+          "US page overview says three nozzles; specification table says six. Exact spray configuration remains unresolved."
+        ],
+        "match_status": "family_name_match_asin_not_officially_confirmed",
+        "checked_at": "2026-10-28"
+      }
+    ]
+  },
+  {
+    "asin": "B0G5XYX1VH",
+    "name": "ECOVACS WINBOT W2S OMNI",
+    "brand": "ECOVACS",
+    "category": "windows",
+    "slug": "ecovacs-winbot-w2s-omni",
+    "catalog_title": "ECOVACS WINBOT W2S Omni Window Cleaning Robot, 6-in-1 Multifunction Station",
+    "budget_snapshot": 407.54,
+    "price_date": "2026-10-24",
+    "image": "/assets/products/B0G5XYX1VH.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0G5XYX1VH?maas=maas_adg_api_584728141102113920_static_9_129&ref_=aa_maas&tag=maas&aa_campaignid=lv_CDIX2IDzKQN5JK3cMg&aa_adgroupid=lv_tnlgl9kB95g4xscu9L&aa_creativeid=lv_i8Pt6TJ9q2BX1jzxBv",
+    "link_status": "verified",
+    "evidence": [
+      {
+        "model": "WINBOT W2S OMNI",
+        "asin": "B0G5XYX1VH",
+        "official_url": "https://www.ecovacs.com/us/shop/winbot-window-cleaning-robot",
+        "facts": [
+          "US shop lists W2S OMNI with portable station and dual power modes."
+        ],
+        "limits": [
+          "Manufacturer documentation is not a hands-on performance test.",
+          "Confirm exact US SKU, included accessories and current offer before purchase."
+        ],
+        "match_status": "family_name_match_asin_not_officially_confirmed",
+        "checked_at": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "asin": "B0DR8Y4VF9",
+    "name": "ECOVACS WINBOT W2 PRO OMNI",
+    "brand": "ECOVACS",
+    "category": "windows",
+    "slug": "ecovacs-winbot-w2-pro-omni",
+    "catalog_title": "ECOVACS WINBOT W2 PRO Omni Portable Window Cleaning Robot with Multi-Functional Station, Charging While Working, Intelligent Cleaning with Triple Nozzle Water Sprayer, 12-Level Protection",
+    "budget_snapshot": 319.0,
+    "price_date": "2026-10-24",
+    "image": "/assets/products/B0DR8Y4VF9.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0DR8Y4VF9?maas=maas_adg_api_584728141102113920_static_9_129&ref_=aa_maas&tag=maas&aa_campaignid=lv_CDIX2IDzKQN5JK3cMg&aa_adgroupid=lv_tu6LQZeWAtS1rq1n5F&aa_creativeid=lv_GstNa8K6eq3SM9UYHV",
+    "link_status": "verified",
+    "evidence": []
+  },
+  {
+    "asin": "B0GR8TQHV9",
+    "name": "Dreame A3 AWD Pro 3500",
+    "brand": "Dreame",
+    "category": "lawns",
+    "slug": "dreame-a3-awd-pro-3500",
+    "catalog_title": "DREAME LiDAR 3500 Robot Lawn Mower A3 AWD Pro Wire Free No RTK, 4WD for 38.7° Slopes, Dual AI Vision Robotic Lawn Mowers,Dual-Disc Cutting 15.8\" Width, Smart Zero-Edge, App Control for 0.87 ",
+    "budget_snapshot": 2399.99,
+    "price_date": "2026-11-10",
+    "image": "/assets/products/B0GR8TQHV9.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0GR8TQHV9?maas=maas_adg_api_586321083774220533_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1bf2c5344fc45811b0a22dbebe39d1b5_39787d6fc0cb&aa_adgroupid=4a2dnb6MHkxVFklKIN45O3EDAFx_aSrYyRhhkMoZ1_ajCzFLSl36ifng65It_a_aTlM51xkK29WeLx_aVlMr_bhPx73GtQwqFZqKOJLd6mmsVzWh4_c&aa_creativeid=a0e9CG_bRTpt9qEJxKUFHPA_bDkCAYgb0mWKwgqIEwsbRhob4_c",
+    "link_status": "verified",
+    "evidence": [
+      {
+        "model": "Dreame A3 AWD Pro 3500",
+        "official_url": "https://yardcare.dreametech.com/products/a3-awd-pro-robot-lawn-mower/",
+        "facts": [
+          "Official US selector lists 3500 version at 0.87 acre.",
+          "Official page describes RTK-free and wire-free navigation.",
+          "Pro family has 2500, 3500 and 5000 capacity variants."
+        ],
+        "limits": [
+          "Do not transfer Pro specifications to A3 AWD 1000 or 2000.",
+          "5000 garage catalog title says 1.25 acre versus 1.20 acre on official selector; unresolved.",
+          "ASIN match is based on catalog title, not official ASIN confirmation."
+        ],
+        "asin": "B0GR8TQHV9",
+        "match_status": "catalog_exact_model_name_match",
+        "checked_at": "2026-10-26",
+        "source_type": "official_manufacturer"
+      }
+    ],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 2399.99,
+      "source_updated_at": "2026-11-10",
+      "checked_at": "2026-11-11",
+      "discount_reported": "7%",
+      "coupon_reported": "10%",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0GTM1CG6X",
+    "name": "Dreame A3 AWD 1000",
+    "brand": "Dreame",
+    "category": "lawns",
+    "slug": "dreame-a3-awd-1000",
+    "catalog_title": "[All-Terrain Wire-Free] DREAME A3 AWD 1000 Robot Lawn Mower, 360° 3D LiDAR & AI Dual Vision Smart Robotic Mower for 0.25 Acre, 80% Slopes & 45min Fast Charge for Homeowners with Large/Steep ",
+    "budget_snapshot": 1999.99,
+    "price_date": "2026-10-17",
+    "image": "/assets/products/B0GTM1CG6X.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0GTM1CG6X?maas=maas_adg_api_586321083774220533_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1bf2c5344fc45811b0a22dbebe39d1b5_ca8dee096c58&aa_adgroupid=9f4dXaq71Xe8hIpS3kTLfNQRb1bcO9RwQTxB2rXxzGdw3NPvnsR375oL3Z51SV7HpW0rUtjURu2REaBj8uQkwI_ad5mrIHBPqn0cr6QxHaN0_c&aa_creativeid=008az2s8X0nFXdSo_a49KSNtiTuFwXTILEYOYYsICFcYKS6I_c",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 1999.99,
+      "source_updated_at": "2026-10-17",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": "$30",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0GTTMZTD7",
+    "name": "Dreame A3 AWD 2000",
+    "brand": "Dreame",
+    "category": "lawns",
+    "slug": "dreame-a3-awd-2000",
+    "catalog_title": "[All-Terrain Wire-Free] DREAME A3 AWD 2000 Robot Lawn Mower, 360° 3D LiDAR & AI Dual Vision Smart Robotic Mowers for 0.5 Acre, 80% Slopes & 45min Fast Charge, 1.97\" Edge Trimming, 4G GPS Ant",
+    "budget_snapshot": 2699.99,
+    "price_date": "2026-10-09",
+    "image": "/assets/products/B0GTTMZTD7.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0GTTMZTD7?maas=maas_adg_api_586321083774220533_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB1bf2c5344fc45811b0a22dbebe39d1b5_5718b109a901&aa_adgroupid=b2e7AE0nKVxFT_bkkiDVoXFKX_awWi8pf7t0Nq2ggv3skHgWv_bpySHKyQvCaXKJfAXSbtOvfq018_aANTlOjfWEedz8CYoDBf4ZFIyUmHxjoYc_c&aa_creativeid=fb13nWwAHRItlVuDz_afTbslqiJvCZX1XgvNZbwN9LDJgt3s_c",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 2699.99,
+      "source_updated_at": "2026-10-09",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": "10%",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0H4QG6HD4",
+    "name": "ECOVACS GOAT O1000 LiDAR PRO",
+    "brand": "ECOVACS",
+    "category": "lawns",
+    "slug": "ecovacs-goat-o1000-lidar-pro",
+    "catalog_title": "ECOVACS Goat O1000 LiDAR PRO Robot Lawn Mower, Wire-Free Robotic Lawn Mower with Dual-LiDAR Navigation, Built-in Edge Trimming, AI Obstacle Avoidance, App Control, for Lawns Up to 1/4 Acre",
+    "budget_snapshot": 1424.99,
+    "price_date": "2026-11-11",
+    "image": "/assets/products/B0H4QG6HD4.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0H4QG6HD4?maas=maas_adg_api_584728141102113920_static_9_129&ref_=aa_maas&tag=maas&aa_campaignid=lv_wLklOkY15vW6XXhB3u&aa_adgroupid=lv_u5SuwSThThJh5WpNCU&aa_creativeid=lv_wCf7msgH7Tpb7vUxQB",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 1424.99,
+      "source_updated_at": "2026-11-11",
+      "checked_at": "2026-11-11",
+      "discount_reported": "5%",
+      "coupon_reported": "$154",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0DRG2HMD2",
+    "name": "ECOVACS GOAT O1000 RTK",
+    "brand": "ECOVACS",
+    "category": "lawns",
+    "slug": "ecovacs-goat-o1000-rtk",
+    "catalog_title": "ECOVACS Goat O1000 RTK Robot Lawn Mower, Perimeter Wire Free Vision Robotic Lawnmower for 1/4 Acres Lawn, Automated Mapping, APP Control, 3D Obstacle Avoidance, Zero-Edge Cutting",
+    "budget_snapshot": 999.99,
+    "price_date": "2026-11-08",
+    "image": "/assets/products/B0DRG2HMD2.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0DRG2HMD2?maas=maas_adg_api_584728141102113920_static_9_129&ref_=aa_maas&tag=maas&aa_campaignid=lv_CDIX2IDzKQN5JK3cMg&aa_adgroupid=lv_SeFEQwpQ63u2sBiUFa&aa_creativeid=lv_92TOwCQs8A8fwDNC71",
+    "link_status": "verified",
+    "evidence": [
+      {
+        "model": "ECOVACS GOAT O1000 RTK",
+        "official_url": "https://www.ecovacs.com/us/shop/goat-robotic-lawn-mower/goat-o1000-rtk",
+        "facts": [
+          "Official US specification lists RTK + camera + 3D ToF navigation.",
+          "Maximum working-area slope 45%; virtual-boundary slope 17%.",
+          "Published narrow passage width 2.3 ft."
+        ],
+        "limits": [
+          "No exact garage bundle verified.",
+          "Different from O1000 LiDAR PRO.",
+          "Manufacturer specifications, not independent tests."
+        ],
+        "asin": "B0DRG2HMD2",
+        "match_status": "catalog_model_name_match; bundle_not_verified",
+        "checked_at": "2026-10-26",
+        "source_type": "official_manufacturer"
+      }
+    ],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 999.99,
+      "source_updated_at": "2026-11-08",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": "$183",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0GGZQTY2N",
+    "name": "ECOVACS GOAT A2000 LiDAR PRO",
+    "brand": "ECOVACS",
+    "category": "lawns",
+    "slug": "ecovacs-goat-a2000-lidar-pro",
+    "catalog_title": "ECOVACS Goat A2000 LiDAR PRO Robot Lawn Mower, Dual LiDAR Navigation",
+    "budget_snapshot": 1999.99,
+    "price_date": "2026-11-11",
+    "image": "/assets/products/B0GGZQTY2N.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0GGZQTY2N?maas=maas_adg_api_584728141102113920_static_9_129&ref_=aa_maas&tag=maas&aa_campaignid=lv_CDIX2IDzKQN5JK3cMg&aa_adgroupid=lv_JTPIidTp3HgWUvBUde&aa_creativeid=lv_6MfTKBz2MNTC0NGwf8",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 1999.99,
+      "source_updated_at": "2026-11-11",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": "$140",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0GGYYQLXL",
+    "name": "ECOVACS GOAT A3000 LiDAR PRO",
+    "brand": "ECOVACS",
+    "category": "lawns",
+    "slug": "ecovacs-goat-a3000-lidar-pro",
+    "catalog_title": "ECOVACS Goat A3000 LiDAR PRO Robotic Lawn Mower, Dual LiDAR Navigation",
+    "budget_snapshot": 2499.99,
+    "price_date": "2026-11-11",
+    "image": "/assets/products/B0GGYYQLXL.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0GGYYQLXL?maas=maas_adg_api_584728141102113920_static_9_129&ref_=aa_maas&tag=maas&aa_campaignid=lv_CDIX2IDzKQN5JK3cMg&aa_adgroupid=lv_hsGPtKCMhuqEkdsiGf&aa_creativeid=lv_JwOmVsKYeDDUCIkhX7",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 2499.99,
+      "source_updated_at": "2026-11-11",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": "$154",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0DRY1KR8Z",
+    "name": "ECOVACS GOAT A2500 RTK",
+    "brand": "ECOVACS",
+    "category": "lawns",
+    "slug": "ecovacs-goat-a2500-rtk",
+    "catalog_title": "ECOVACS Goat A2500 RTK Robot Lawn Mower, Lidar-Enhanced RTK+Vision Navigation, Auto-Mapping, Dual Blades, Edge Precision Mowing, Perimeter Wire-Free, Suitable for 5/8 Acres Lawn, 50% Slope C",
+    "budget_snapshot": 1937.4,
+    "price_date": "2026-11-08",
+    "image": "/assets/products/B0DRY1KR8Z.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0DRY1KR8Z?maas=maas_adg_api_584728141102113920_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PB2480810e2b7e43e5bb2e046e26bd0b27_684f34602c28&aa_adgroupid=fedfpxpKcmi2tSdTPwIZOV0BLIPm6URlxeS2mkMa0dWuS9kOUDZmhlS8mbemkwr_auDOXrtJI3UN3_afMPx_bsxFdJvYJxYmIsolYN7gP8ouIo_c&aa_creativeid=a12c5syXphIjcTKbHcN_bFU6XHOlJagpBXJ6zy_akL6x8GhlE_c",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 1937.4,
+      "source_updated_at": "2026-11-08",
+      "checked_at": "2026-11-11",
+      "discount_reported": "0%",
+      "coupon_reported": "$154",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0GS2BQBJ9",
+    "name": "Beatbot Sora 10",
+    "brand": "Beatbot",
+    "category": "pools",
+    "slug": "beatbot-sora-10",
+    "catalog_title": "Beatbot Sora 10 Cordless Pool Vacuum Robot for Inground & Above Ground Pools, 6800 GPH Suction, Floor/Wall/Waterline/Shallow Area Cleaning, Waterline Parking, 300 Mins Runtime, Mint Green",
+    "budget_snapshot": 448.99,
+    "price_date": "2026-11-07",
+    "image": "/assets/products/B0GS2BQBJ9.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0GS2BQBJ9?maas=maas_adg_api_588404530753541753_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PBaf8259aed134bac71c9bd90849631650_29961f1e34c6&aa_adgroupid=b8ecEthm0Dhgz0hohKjwMGdfjS_bmrPaCvkGkFLuHQ6bOe6CBiTN3YDJIpKRrWc3F_bDCdj8BIXbg63YGwiGxrf4EzjO22EP02OYFnt_b7Bgzw_c&aa_creativeid=d883i7IIn5xpO3NvoNEdMqi6O_bpq_b6y4nU_aRav6mZqntCcI_c",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 448.99,
+      "source_updated_at": "2026-11-07",
+      "checked_at": "2026-11-11",
+      "discount_reported": "35%",
+      "coupon_reported": "$300",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0GS65PVHY",
+    "name": "Beatbot Sora 30",
+    "brand": "Beatbot",
+    "category": "pools",
+    "slug": "beatbot-sora-30",
+    "catalog_title": "Beatbot Sora 30 Pool Vacuum, Floor & Wall & Waterline & Platform Cleaning, 6800GPH Power, Smart Parking, 300Min Runtime, 5L Capacity, for Above & In-Ground Pools 3229 sq.ft, Deep Blue",
+    "budget_snapshot": 699.0,
+    "price_date": "2026-11-07",
+    "image": "/assets/products/B0GS65PVHY.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0GS65PVHY?maas=maas_adg_api_588404530753541753_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PBaf8259aed134bac71c9bd90849631650_24fd70dbc345&aa_adgroupid=97efLrD_amuYKuV6Udf3aQKXOO7CKG_aq6d3EOXYkX2d6Xj36iU7aTam5biE8n6KN7jshyNDp26J7Fdt2tRTlvRDOW0n73D785t3GkDfLRXuY_c&aa_creativeid=9cb1UCMWhVhfgrjgqYLqyjjCrq_atEwgkeAYSY03TwahvDBo_c",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 699.0,
+      "source_updated_at": "2026-11-07",
+      "checked_at": "2026-11-11",
+      "discount_reported": "30%",
+      "coupon_reported": "$300",
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0DPMDQ2RD",
+    "name": "Beatbot AquaSense 2",
+    "brand": "Beatbot",
+    "category": "pools",
+    "slug": "beatbot-aquasense-2",
+    "catalog_title": "Beatbot AquaSense 2 Cordless Robotic Pool Vacuum Cleaner, Smart Surface Parking, Double-Pass Waterline Scrubbing, Cleans Floor, Walls and Waterline",
+    "budget_snapshot": 849.0,
+    "price_date": "2026-11-09",
+    "image": "/assets/products/B0DPMDQ2RD.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": null,
+    "link_status": "no_exact_link",
+    "evidence": [
+      {
+        "model": "Beatbot AquaSense 2",
+        "official_url": "https://beatbot.com/pages/aquasense-2-ultra",
+        "facts": [
+          "Manufacturer comparison lists floor, wall and waterline cleaning.",
+          "The base AquaSense 2 is not listed with surface skimming, unlike Pro and Ultra."
+        ],
+        "limits": [
+          "Not AquaSense Pro, AquaSense 2 Pro or Ultra.",
+          "Catalog 2026-upgrade ASINs must not automatically inherit the earlier model match.",
+          "Filter and runtime figures not reconciled here."
+        ],
+        "asin": "B0DPMDQ2RD",
+        "match_status": "catalog_model_name_match",
+        "checked_at": "2026-10-26",
+        "source_type": "official_manufacturer"
+      }
+    ],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 849.0,
+      "source_updated_at": "2026-11-09",
+      "checked_at": "2026-11-11",
+      "discount_reported": "34%",
+      "coupon_reported": null,
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0GWF6FPPS",
+    "name": "Beatbot iSkim",
+    "brand": "Beatbot",
+    "category": "pools",
+    "slug": "beatbot-iskim",
+    "catalog_title": "Beatbot iSkim 24/7 Solar Pool Skimmer Robot with App Control, 9L Basket",
+    "budget_snapshot": 359.0,
+    "price_date": "2026-11-09",
+    "image": "/assets/products/B0GWF6FPPS.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0GWF6FPPS?maas=maas_adg_api_588404530753541753_static_12_201&ref_=aa_maas&tag=maas&aa_campaignid=PBaf8259aed134bac71c9bd90849631650_0dc94eec94b4&aa_adgroupid=2e87F3vL19CK2sfTXOclC74AQ5xwVg2_ai4j9zeyTtOWAS5_atnoOOwCRsu_aVKFag7u5IWOjcm0J0rj2BgH48QDImhDFzsfvekvsrQDuTtU5w_c&aa_creativeid=b2b0zKmRO_b40wGV1UKkmW6z2gBAAsPudsxpCIlYWFIGmUBU_c",
+    "link_status": "verified",
+    "evidence": [],
+    "offer_snapshot": {
+      "provider": "PartnerBoost",
+      "price_usd": 359.0,
+      "source_updated_at": "2026-11-09",
+      "checked_at": "2026-11-11",
+      "discount_reported": "16%",
+      "coupon_reported": null,
+      "verification": "platform_snapshot_only_amazon_confirmation_pending"
+    }
+  },
+  {
+    "asin": "B0DPHGPLGM",
+    "name": "Aiper EcoSurfer S2",
+    "brand": "Aiper",
+    "category": "pools",
+    "slug": "aiper-ecosurfer-s2",
+    "catalog_title": "AIPER EcoSurfer S2 24/7 Solar Pool Skimmer Robot with App Support, Blue",
+    "budget_snapshot": 359.99,
+    "price_date": "2026-10-26",
+    "image": "/assets/products/B0DPHGPLGM.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0DPHGPLGM?maas=maas_adg_api_590892048320336634_static_9_129&ref_=aa_maas&tag=maas&aa_campaignid=lv_e0Q4Al6FrknMLdsToS&aa_adgroupid=lv_cfkxjDYtkx4wv9QsWn&aa_creativeid=lv_AF3xS3C7Imjtu4t1Tl",
+    "link_status": "verified",
+    "evidence": []
+  },
+  {
+    "asin": "B0HF51H3FS",
+    "name": "Aiper Scuba S1 2026",
+    "brand": "Aiper",
+    "category": "pools",
+    "slug": "aiper-scuba-s1-2026",
+    "catalog_title": "Aiper Scuba S1 2026 Robotic Pool Cleaner,Floor/Wall/Waterline/Shallow Area Cleaning, Double Filtration, Adaptive Navigation, High-Precision Sensors, App Support-Gray",
+    "budget_snapshot": 529.99,
+    "price_date": "2026-10-26",
+    "image": "/assets/products/B0HF51H3FS.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0HF51H3FS?maas=maas_adg_api_590892048320336634_static_9_129&ref_=aa_maas&tag=maas&aa_campaignid=lv_q399GxnqCjHVAOVW90&aa_adgroupid=lv_aE8lVfZXndCLOveSSc&aa_creativeid=lv_nywoyV97RqJ233roVw",
+    "link_status": "verified",
+    "evidence": []
+  },
+  {
+    "asin": "B0GY8DDHTN",
+    "name": "Aiper Scuba V3",
+    "brand": "Aiper",
+    "category": "pools",
+    "slug": "aiper-scuba-v3",
+    "catalog_title": "AIPER Scuba V3 AI Vision Cordless Robotic Pool Cleaner, Include Wireless Charging Dock, Smart Waterline Parking & Featherlight Design, Micromesh Multi-Layer Filtration, Blue",
+    "budget_snapshot": 849.99,
+    "price_date": "2026-10-26",
+    "image": "/assets/products/B0GY8DDHTN.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0GY8DDHTN?maas=maas_adg_api_590892048320336634_static_9_129&ref_=aa_maas&tag=maas&aa_campaignid=lv_gQTSTfGjRnFT4LqnBc&aa_adgroupid=lv_IjK057W2oBZluy5dIR&aa_creativeid=lv_hR5FUc5HRJHReeY7ou",
+    "link_status": "verified",
+    "evidence": []
+  },
+  {
+    "asin": "B0H3P677QR",
+    "name": "Aiper Scuba V3 Ultra",
+    "brand": "Aiper",
+    "category": "pools",
+    "slug": "aiper-scuba-v3-ultra",
+    "catalog_title": "Aiper Scuba V3 Ultra Dual AI Vision Robotic Pool Cleaner & Skimmer Robot",
+    "budget_snapshot": 2499.99,
+    "price_date": "2026-10-26",
+    "image": "/assets/products/B0H3P677QR.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://www.amazon.com/dp/B0H3P677QR?maas=maas_adg_api_590892048320336634_static_9_129&ref_=aa_maas&tag=maas&aa_campaignid=lv_O588WGHAtfd5ZhdLQm&aa_adgroupid=lv_Y1mqa7riks5XmsUZL9&aa_creativeid=lv_74coGDRTCz2koZSIlk",
+    "link_status": "verified",
+    "evidence": []
+  },
+  {
+    "asin": "B0F83L872B",
+    "name": "GarveeLife 5L Countertop Dishwasher",
+    "brand": "GarveeLife",
+    "category": "dishes",
+    "slug": "garveelife-5l-countertop-dishwasher",
+    "catalog_title": "GarveeLife Portable Countertop Dishwashers, Compact Dishwashers with 5 L Built-In Water Tank & Inlet Hose, LED Display, Space-Saving Design Ideal for Small Apartments/Dorm/RVs",
+    "budget_snapshot": 329.99,
+    "price_date": "2026-10-26",
+    "image": "/assets/products/B0F83L872B.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": null,
+    "link_status": "unverified_page",
+    "evidence": []
+  },
+  {
+    "asin": "B08JWZZ7QG",
+    "name": "hOmeLabs 18-inch Built-in Dishwasher",
+    "brand": "hOmeLabs",
+    "category": "dishes",
+    "slug": "homelabs-18-inch-built-in-dishwasher",
+    "catalog_title": "hOmeLabs 18 Inch Wide Built-In Dishwasher with Stainless Steel Front Door - Energy Star Rated with 6 Wash Cycles and 9 Place Settings - Easy-To-Use Control Panel with LED Display",
+    "budget_snapshot": 629.99,
+    "price_date": "2026-10-26",
+    "image": "/assets/products/B08JWZZ7QG.jpg",
+    "evidence_status": "catalog_identity; independent performance not tested",
+    "buy_url": "https://amazon.com/dp/B08JWZZ7QG?maas=maas_adg_api_579194941985385042_static_9_218&ref_=aa_maas&tag=maas&aa_campaignid=wyrd_64c9f88b6d1762f_5&aa_adgroupid=wyrd_7eeff2c8dc41984_5&aa_creativeid=wyrd_f44db1d34ce7942_5",
+    "link_status": "verified",
+    "evidence": []
+  }
+]
